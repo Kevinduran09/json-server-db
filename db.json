@@ -92,27 +92,7 @@
       ],
       "organizador_id": "3"
     },
-    {
-      "id": "a9b3",
-      "titulo": "Sembradero de mota",
-      "fecha": "2025-04-03",
-      "hora": "",
-      "ubicacion": "Universidad Nacional Region chorotega",
-      "categoria": "conferencia",
-      "descripcion": "Sembradero de mota para toda la U",
-      "voluntariosRequeridos": "300",
-      "habilidadesRequeridas": "",
-      "habilidadesOpcionales": "",
-      "edadRequerida": "",
-      "requisitosAdicionales": "",
-      "tareas": [
-        {
-          "nombre": "Clasificar residuos",
-          "estado": "pendiente"
-        }
-      ],
-      "organizador_id": "2"
-    },
+  
     {
       "id": "65f9",
       "titulo": "Limpieza del parque central de LIberia",
