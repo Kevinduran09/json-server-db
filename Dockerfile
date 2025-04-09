@@ -14,4 +14,4 @@ RUN npm install json-server
 EXPOSE 3000
 
 # Comando para ejecutar json-server
-CMD ["npm", "server.js"]
+CMD ["node", "server.js"]
