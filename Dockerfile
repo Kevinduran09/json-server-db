@@ -12,4 +12,4 @@ COPY . .
 # Expone el puerto
 EXPOSE 3000
 
-CMD ["node", "server.js"]
+CMD ["npx", "json-server", "--watch", "db.json", "--host", "0.0.0.0"]
