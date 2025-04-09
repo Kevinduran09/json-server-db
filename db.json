@@ -38,7 +38,7 @@
       "id": "1",
       "titulo": "Reforestación en el parque",
       "fecha": "2025-04-10",
-      "hora": "",
+      "hora": "08:30",
       "ubicacion": "Parque Nacional",
       "categoria": "Ambiental",
       "descripcion": "Evento de reforestación para mejorar las áreas verdes.",
@@ -67,7 +67,7 @@
       "id": "2",
       "titulo": "Limpieza de Playa",
       "fecha": "2025-04-20",
-      "hora": "",
+      "hora": "09:00",
       "ubicacion": "Playa Tamarindo",
       "categoria": "Ambiental",
       "descripcion": "Actividad para recolectar desechos y limpiar la costa.",
@@ -92,20 +92,19 @@
       ],
       "organizador_id": "3"
     },
-  
     {
       "id": "65f9",
-      "titulo": "Limpieza del parque central de LIberia",
+      "titulo": "Limpieza del parque central de Liberia",
       "fecha": "2025-04-18",
       "hora": "13:53",
       "ubicacion": "Liberia, centro",
-      "categoria": "seminario",
-      "descripcion": "Limpieza del parque centra del cantón de Liberia, la finalidad de este evento es consolidar la comunidad Liberiana para darle mantenimiento y embellecer nuestro parque central ",
+      "categoria": "Ambiental",
+      "descripcion": "Limpieza del parque central del cantón de Liberia, con el objetivo de consolidar la comunidad liberiana y embellecer nuestro parque.",
       "voluntariosRequeridos": "10",
       "habilidadesRequeridas": "",
       "habilidadesOpcionales": "",
       "edadRequerida": "16+",
-      "requisitosAdicionales": "Bolsas plástico, herramientas jardinería, guantes, escoba, pintura",
+      "requisitosAdicionales": "Bolsas plástico, herramientas de jardinería, guantes, escoba, pintura",
       "tareas": [
         {
           "nombre": "Limpieza bancas",
@@ -257,12 +256,6 @@
       "eventoId": "7",
       "usuarioId": "2",
       "fecha_inscripcion": "2024-12-05"
-    },
-    {
-      "id": "ef00",
-      "eventoId": "a9b3",
-      "usuarioId": "2",
-      "fecha_inscripcion": "2025-04-08T10:38:08.280Z"
     }
   ]
 }
